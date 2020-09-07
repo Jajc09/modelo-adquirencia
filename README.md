@@ -13,15 +13,15 @@ La información extraída corresponde a la ciudad de Bogotá.
 Fecha de creación: 07/septiembre/2020.
 
 
-## osm_variables.RDS: 
+### osm_variables.RDS: 
 Contiene la base final del ejercicio luego de extraer la información de los poligonos de Bogotá usando la libreria osmar y la API de OpenStreetMap.
 
 
-## osmar_library.R: 
+### osmar_library.R: 
 Script de R con la extracción de los centroides de los poligonos de Bogotá, extracción de la información de OpenStreetMap y limpieza de la base de datos extraída.
 
 
-## ubicaciones_hexagonos.RDS: 
+### ubicaciones_hexagonos.RDS: 
 Base de los centroides de los poligonos de Bogotá, estos poligonos son de tamaño 100. 
 
 
