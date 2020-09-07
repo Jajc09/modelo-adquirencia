@@ -11,3 +11,6 @@ La información extraída corresponde a la ciudad de Bogotá.
 
 
 07/septiembre/2020.
+
+
+Fuente: https://journal.r-project.org/archive/2013/RJ-2013-005/RJ-2013-005.pdf
