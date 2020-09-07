@@ -10,9 +10,6 @@ Uso de la librería OSMAR para la extracción de información de la API de OpenS
 La información extraída corresponde a la ciudad de Bogotá.
 
 
-Fecha de creación: 07/septiembre/2020.
-
-
 ### osm_variables.RDS: 
 Contiene la base final del ejercicio luego de extraer la información de los poligonos de Bogotá usando la libreria osmar y la API de OpenStreetMap.
 
@@ -26,3 +23,7 @@ Base de los centroides de los poligonos de Bogotá, estos poligonos son de tama�
 
 
 Fuente: https://journal.r-project.org/archive/2013/RJ-2013-005/RJ-2013-005.pdf
+
+
+
+Fecha de creación: 07/septiembre/2020.
